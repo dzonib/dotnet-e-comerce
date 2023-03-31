@@ -1,0 +1,15 @@
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/bin/Debug/net7.0/Core.dll
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/bin/Debug/net7.0/Core.pdb
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.dll
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
+/Users/nikolabosnjak/learning/dotnet/skinet/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll
